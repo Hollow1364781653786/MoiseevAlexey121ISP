@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../nefor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nefor"
+	}
+}

@@ -1,0 +1,213 @@
+* {
+    margin: 0px;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.small-bold-black{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.11px;
+    font-family: 'rubik';
+}
+.button-dark-blue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #124C5F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #C7E7E1;
+}
+.small-bold-white{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.11px;
+    color: white;
+    font-family: 'Roboto';
+}
+.button-bright-blue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #C7E7E1;
+    justify-content: center;
+    align-items: center;
+    color: #124C5F;
+}
+.small-bold-navy{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.11px;
+    color: #124C5F;
+}
+.flex-container-background{
+    display: flex;
+    height: 764px;
+    justify-content: space-around;
+    background-image: url(assets/Vector\ 1.png);
+    background-repeat: no-repeat;
+}
+.big-normal-black{
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 54.96px;
+    font-family: 'Pangolin';
+}
+.transparent-smooth-gradient{
+    width: 200px;
+    height: 224px;
+    border-radius: 25px;
+    border: 1px solid #FFEE94;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,238,148,1) 100%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.transparent-smooth{
+    padding-bottom: 10px;
+    width: 200px;
+    height: 214px;
+    border-radius: 25px;
+    border: 1px solid #98F2E1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.small-normal-grey{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26.2px;
+    color: #4E4C46;
+}
+.big-bold-black{
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 54.96px;
+    font-family: 'Rubik';
+}
+.button-navy-border{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #124C5F;
+    border-radius: 6px;
+}
+.medium-semibold-navy{
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26.07px;
+    color: #124C5F;
+}
+detail-section{
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(246,255,253,1) 100%);
+}
+.testimonial-container-1{
+    background: linear-gradient(0deg, rgba(18,76,95,1) 30%, rgba(255,255,255,1) 30%, rgba(255,241,166,1) 35%);
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    width: 360px;
+    height: 438px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.testimonial-container-2{
+    background: rgb(18,76,95);
+    background: linear-gradient(0deg, rgba(18,76,95,1) 30%, rgba(255,255,255,1) 30%, rgba(255,166,210,1) 35%);
+    border-top-left-radius: 33px;
+    border-top-right-radius: 33px;
+    width: 360px;
+    height: 438px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.testimonial-container-3{
+    background: linear-gradient(0deg, rgba(18,76,95,1) 30%, rgba(255,255,255,1) 30%, rgba(185,166,255,1) 35%);
+    border-top-right-radius: 33px;
+    border-top-left-radius: 33px;
+    width: 360px;
+    height: 438px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.medium-bold-gold{
+    font-family: 'Rubik';
+    color: #DDCA69;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33.18px;
+}
+/* .testimonial-background-2{
+    background: url(assets/images-removebg-preview\ 1.png);
+} */
+.flex-container-background-2{
+    display: flex;
+    background: url(assets/images-removebg-preview\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 315px;
+}
+.flex-container-background-3{
+    display: flex;
+    background: url(assets/0-4247_girl-with-dog-png-transparent-png-removebg-preview\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 315px;
+}
+.email{
+    width: 751px;
+    height: 118px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+}
+.email *{
+    margin: 0px auto;
+}
+.grey-container{
+    width: 58px;
+    height: 58px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grey-circle{
+    width: 58px;
+    height: 58px;
+    border-radius: 30px;
+    background: #C4C4C4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.small-normal-black{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 54.96px;
+    font-family: 'Pangolin';
+}
+.button-bright-blue:hover{
+    background-color: #124C5F;
+    cursor: pointer;
+    color: #C7E7E1;
+}
+.button-dark-blue:hover{
+    background-color: #C7E7E1;
+    cursor: pointer;
+    color: #124C5F;
+}
