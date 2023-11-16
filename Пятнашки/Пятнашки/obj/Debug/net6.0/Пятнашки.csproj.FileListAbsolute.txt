@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.exe
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.deps.json
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.runtimeconfig.json
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.dll
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.pdb
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.AssemblyInfo.cs
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.dll
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\refint\Пятнашки.dll
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.pdb
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.genruntimeconfig.cache
+C:\Users\User\Desktop\Моисеев Зубанов 121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\ref\Пятнашки.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.exe
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.deps.json
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.runtimeconfig.json
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\bin\Debug\net6.0\Пятнашки.pdb
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.AssemblyInfo.cs
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\refint\Пятнашки.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.pdb
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\Пятнашки.genruntimeconfig.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\Пятнашки\Пятнашки\obj\Debug\net6.0\ref\Пятнашки.dll
