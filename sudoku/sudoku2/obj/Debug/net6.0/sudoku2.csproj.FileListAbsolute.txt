@@ -1,0 +1,29 @@
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.exe
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.deps.json
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.runtimeconfig.json
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.dll
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.pdb
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.AssemblyInfo.cs
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.dll
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\refint\sudoku2.dll
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.pdb
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.genruntimeconfig.cache
+C:\Users\User\Downloads\спизженно\sudoku\sudoku2\obj\Debug\net6.0\ref\sudoku2.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.exe
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.deps.json
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.runtimeconfig.json
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\bin\Debug\net6.0\sudoku2.pdb
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.AssemblyInfo.cs
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\refint\sudoku2.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.pdb
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\sudoku2.genruntimeconfig.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\sudoku\sudoku2\obj\Debug\net6.0\ref\sudoku2.dll
