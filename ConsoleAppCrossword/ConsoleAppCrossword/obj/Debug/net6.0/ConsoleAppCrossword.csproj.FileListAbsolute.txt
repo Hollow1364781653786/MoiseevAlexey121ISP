@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.exe
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.deps.json
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.runtimeconfig.json
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.pdb
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.AssemblyInfo.cs
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\refint\ConsoleAppCrossword.dll
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.pdb
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.genruntimeconfig.cache
+C:\Users\User\Desktop\Моисеев  121 ИСП\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ref\ConsoleAppCrossword.dll
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.exe
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.deps.json
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.runtimeconfig.json
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.dll
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\bin\Debug\net6.0\ConsoleAppCrossword.pdb
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.AssemblyInfoInputs.cache
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.AssemblyInfo.cs
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.dll
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\refint\ConsoleAppCrossword.dll
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.pdb
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ConsoleAppCrossword.genruntimeconfig.cache
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppCrossword\ConsoleAppCrossword\obj\Debug\net6.0\ref\ConsoleAppCrossword.dll
