@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mob.MainPage">
+    <StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15*"></ColumnDefinition>
+                <ColumnDefinition Width="15*"></ColumnDefinition>
+                <ColumnDefinition Width="15*"></ColumnDefinition>
+                <ColumnDefinition Width="15*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4" x:Name="tBOut"></Label>
+            <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" x:Name="tb1"></Label>
+            <Button Grid.Column="0" Grid.Row="2" Text="1" x:Name="btn1" Clicked="button1_Click"></Button>
+            <Button Grid.Column="0" Grid.Row="3" Text="4" x:Name="btn4" Clicked="btn4_Click"></Button>
+            <Button Grid.Column="0" Grid.Row="4" Text="7" x:Name="btn7" Clicked="btn7_Click"></Button>
+            <Button Grid.Column="1" Grid.Row="2" Text="2" x:Name="btn2" Clicked="button2_Click"></Button>
+            <Button Grid.Column="1" Grid.Row="3" Text="5" x:Name="btn5" Clicked="btn5_Click"></Button>
+            <Button Grid.Column="1" Grid.Row="4" Text="8" x:Name="btn8" Clicked="btn8_Click"></Button>
+            <Button Grid.Column="1" Grid.Row="5" Text="0" x:Name="btn0" Clicked="btn0_Click"></Button>
+            <Button Grid.Column="2" Grid.Row="2" Text="3" x:Name="btn3" Clicked="btn3_Click"></Button>
+            <Button Grid.Column="2" Grid.Row="3" Text="6" x:Name="btn6" Clicked="btn6_Click"></Button>
+            <Button Grid.Column="2" Grid.Row="4" Text="9" x:Name="btn9" Clicked="button9_Click"></Button>
+            <Button Grid.Column="2" Grid.Row="5" Text="=" x:Name="btnRav" Clicked="btnRav_Click"></Button>
+            <Button Grid.Column="3" Grid.Row="2" Text="-" x:Name="btnMin" Clicked="btnMin_Click"></Button>
+            <Button Grid.Column="3" Grid.Row="3" Text="+" x:Name="btnPl" Clicked="btnPl_Click"></Button>
+            <Button Grid.Column="3" Grid.Row="4" Text="*" x:Name="btnMlp" Clicked="button2_Click_1"></Button>
+            <Button Grid.Column="3" Grid.Row="5" Text="/" x:Name="btnSls" Clicked="btnSls_Click"></Button>
+            <Button Grid.Column="3" Grid.Row="6" Text="X" x:Name="btnClr" Clicked="btnClr_Click"></Button>
+        </Grid>
+    </StackLayout>
+</ContentPage>
