@@ -1,0 +1,63 @@
+[gd_scene load_steps=6 format=3 uid="uid://dpxttlsqueeti"]
+
+[ext_resource type="Script" path="res://Scenes/test_level.gd" id="1_8gxgs"]
+[ext_resource type="PackedScene" uid="uid://cevskr0vso5b2" path="res://Scenes/player_pathfinding.tscn" id="3_7ecre"]
+[ext_resource type="PackedScene" uid="uid://dqpejqowctouy" path="res://Scenes/enemy.tscn" id="3_y2p31"]
+[ext_resource type="PackedScene" uid="uid://c22y10l6rr3va" path="res://Scenes/player_health_container.tscn" id="4_se5dl"]
+
+[sub_resource type="NavigationPolygon" id="NavigationPolygon_5f70y"]
+vertices = PackedVector2Array(256, 0, 296, 0, 296, 136, 256, 136, 216, 128, 168, 128, 168, 136, 120, 136, 120, 128, 128, 0, 8, 128, 8, 0, 216, -16)
+polygons = Array[PackedInt32Array]([PackedInt32Array(0, 1, 2, 3, 4), PackedInt32Array(5, 6, 7, 8, 9), PackedInt32Array(8, 10, 11, 9), PackedInt32Array(4, 5, 9, 12, 0)])
+outlines = Array[PackedVector2Array]([PackedVector2Array(296, 136, 256, 136, 216, 128, 168, 128, 168, 136, 120, 136, 120, 128, 8, 128, 8, 0, 128, 0, 216, -16, 256, 0, 296, 0)])
+source_geometry_group_name = &"navigation_polygon_source_group"
+
+[node name="Test level" type="Node2D"]
+script = ExtResource("1_8gxgs")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+collision_layer = 7
+collision_mask = 7
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+position = Vector2(120, 136)
+scale = Vector2(1.91593, 1.60365)
+polygon = PackedVector2Array(25.0531, -4.98862, 50.1062, -4.98862, 70.9838, 0, 91.8614, 0, 91.8614, -84.8065, 108.563, -84.8065, 108.563, 29.9317, -75.1593, 29.9317, -75.1593, -84.8065, -58.4572, -84.8065, -58.4572, -4.98862, 0, -4.98862)
+
+[node name="Polygon2D" type="Polygon2D" parent="StaticBody2D/CollisionPolygon2D"]
+
+[node name="NavigationRegion2D" type="NavigationRegion2D" parent="."]
+visible = false
+navigation_polygon = SubResource("NavigationPolygon_5f70y")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 2.0
+autostart = true
+
+[node name="Player_Pathfinding" parent="." instance=ExtResource("3_7ecre")]
+position = Vector2(152, 112)
+
+[node name="Enemy" parent="." instance=ExtResource("3_y2p31")]
+position = Vector2(201, 104)
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="PlayerHealthBar" parent="CanvasLayer" instance=ExtResource("4_se5dl")]
+layout_direction = 2
+anchors_preset = -1
+anchor_left = 0.5
+anchor_top = 0.933
+anchor_right = 0.5
+anchor_bottom = 0.933
+offset_top = 0.0599976
+offset_bottom = 0.0599976
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="Shot" type="Line2D" parent="."]
+visible = false
+visibility_layer = 1023
+points = PackedVector2Array(44, 0, 0, 0)
+width = 1.0
+default_color = Color(0.490196, 0.490196, 0.490196, 1)
+
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

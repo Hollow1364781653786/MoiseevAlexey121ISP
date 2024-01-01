@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://c226kek2c4ei2"]
+
+[ext_resource type="Script" path="res://Scenes/enemy_healthbar.gd" id="1_fep47"]
+
+[node name="enemy_healthbar" type="HBoxContainer"]
+offset_right = 32.0
+offset_bottom = 8.0
+theme_override_constants/separation = 0
+alignment = 1
+script = ExtResource("1_fep47")
