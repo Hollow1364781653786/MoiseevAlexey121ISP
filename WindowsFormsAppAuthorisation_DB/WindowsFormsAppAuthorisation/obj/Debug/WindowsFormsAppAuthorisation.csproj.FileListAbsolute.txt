@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.exe.config
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.exe
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.pdb
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Form1.resources
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Properties.Resources.resources
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.exe
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.pdb
+C:\Users\User\Desktop\СВР\C# 6 12 2023\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Form2.resources
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.exe.config
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.exe
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.pdb
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Form1.resources
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Form2.resources
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Properties.Resources.resources
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.CopyComplete
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.exe
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.pdb
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.exe.config
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.exe
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\WindowsFormsAppAuthorisation.pdb
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Form1.resources
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Form2.resources
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.Properties.Resources.resources
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.csproj.CopyComplete
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.exe
+C:\Users\User\Desktop\WindowsFormsAppAuthorisation_DB\WindowsFormsAppAuthorisation\obj\Debug\WindowsFormsAppAuthorisation.pdb
