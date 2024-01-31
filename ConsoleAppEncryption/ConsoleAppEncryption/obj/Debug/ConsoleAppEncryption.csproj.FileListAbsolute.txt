@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleAppEncryption\ConsoleAppEncryption\bin\Debug\ConsoleAppEncryption.exe.config
+C:\Users\User\source\repos\ConsoleAppEncryption\ConsoleAppEncryption\bin\Debug\ConsoleAppEncryption.exe
+C:\Users\User\source\repos\ConsoleAppEncryption\ConsoleAppEncryption\bin\Debug\ConsoleAppEncryption.pdb
+C:\Users\User\source\repos\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.exe
+C:\Users\User\source\repos\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.pdb
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppEncryption\ConsoleAppEncryption\bin\Debug\ConsoleAppEncryption.exe.config
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppEncryption\ConsoleAppEncryption\bin\Debug\ConsoleAppEncryption.exe
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppEncryption\ConsoleAppEncryption\bin\Debug\ConsoleAppEncryption.pdb
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.csproj.AssemblyReference.cache
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.exe
+C:\Users\alexe\OneDrive\Desktop\education\ConsoleAppEncryption\ConsoleAppEncryption\obj\Debug\ConsoleAppEncryption.pdb
