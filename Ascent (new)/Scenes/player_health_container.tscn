@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://c22y10l6rr3va"]
-
-[ext_resource type="Script" path="res://Scenes/player_health_container.gd" id="1_ap74o"]
-
-[node name="PlayerHealthBar" type="HBoxContainer"]
-layout_direction = 3
-theme_override_constants/separation = 0
-script = ExtResource("1_ap74o")
